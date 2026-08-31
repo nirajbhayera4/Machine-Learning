@@ -21,3 +21,7 @@ ans=[]
 for i in numbers :
     ans.append(i*i)
 print(ans)
+
+# 1. list comprehensions
+ans=[i * i for i in numbers]
+print(ans)
