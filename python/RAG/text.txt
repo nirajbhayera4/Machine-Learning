@@ -1,0 +1,11 @@
+﻿Retrieval-Augmented Generation (RAG)
+
+RAG combines information retrieval with text generation. Before answering a question, a system searches a collection of documents for relevant passages. It then provides those passages to a language model as context, helping the model produce answers grounded in the source material.
+
+A typical RAG workflow has four steps:
+1. Load documents from files or other sources.
+2. Split long documents into smaller chunks.
+3. Convert chunks into embeddings and store them in a searchable index.
+4. Retrieve relevant chunks for a question and use them to generate an answer.
+
+For example, if a document says that the project meeting starts at 10:00 AM on Tuesday, a RAG system can retrieve that sentence when asked, “When is the project meeting?” The answer can then be based on the document rather than on a guess.
