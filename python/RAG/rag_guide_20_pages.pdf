@@ -1,0 +1,686 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R] /Count 20 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 964 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (01 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (RAG in One Sentence) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Retrieval-Augmented Generation \(RAG\) gives a language model) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (useful information from a document collection before it writes) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (an answer.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Search first, answer with context.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (1) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 970 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (02 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Why Use RAG?) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A language model may not know private, recent, or specialized) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (facts. RAG lets an application fetch relevant source material at) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (question time.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Bring the right information to the model.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 969 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (03 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (The Basic Flow) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A common RAG system loads documents, splits them into chunks,) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (indexes the chunks, retrieves matches for a question, and sends) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (them to a model.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Load, split, index, retrieve, answer.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 960 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (04 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Documents) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Documents can come from text files, PDFs, web pages, knowledge) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (bases, or databases. Each loaded document should retain useful) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (source details.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Know where each passage came from.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (4) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 953 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (05 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Text Loading) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A text loader reads a file and returns document objects. These) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (objects commonly hold page content and metadata such as a source) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (path.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Check encoding and source paths.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (5) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 964 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (06 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Chunking) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Long documents are divided into smaller pieces called chunks.) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (Chunking helps search find a focused passage and keeps model) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (context manageable.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Small passages are easier to retrieve.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 965 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (07 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Chunk Overlap) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A little overlap between adjacent chunks can preserve a sentence) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (or idea that crosses a boundary. Too much overlap creates) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (repeated material.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Keep overlap modest and purposeful.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (7) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 948 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (08 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Metadata) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Metadata can include a file name, page number, section, date, or) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (access label. It helps filter results and show citations to) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (users.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Store context alongside the text.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (8) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 962 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (09 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Embeddings) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (An embedding is a list of numbers representing text meaning.) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (Texts with related meanings tend to have nearby vectors in) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (embedding space.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Embeddings support meaning-based search.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (9) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 957 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (10 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Vector Index) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A vector index stores embeddings and supports similarity search.) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (It can also keep document text and metadata for the retrieved) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (items.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (An index makes retrieval practical.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (10) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 971 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (11 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Similarity Search) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A question is embedded and compared with indexed passages. The) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (system returns passages whose vectors are closest to the) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (question vector.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Similarity is a useful signal, not proof.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (11) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 25 0 R >>
+endobj
+27 0 obj
+<< /Length 973 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (12 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Keyword Search) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Keyword search finds exact terms and names. Combining it with) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (vector search can help when wording is important or a name is) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (uncommon.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Different search methods catch different matches.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (12) Tj ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 27 0 R >>
+endobj
+29 0 obj
+<< /Length 949 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (13 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Retrieval) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (The retriever selects a limited set of passages for a question.) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (The number and relevance of passages affect answer quality and) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (cost.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Retrieve a small, relevant set.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (13) Tj ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 29 0 R >>
+endobj
+31 0 obj
+<< /Length 960 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (14 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Prompt Context) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A prompt can tell the model to answer using the retrieved) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (passages, say when evidence is missing, and include source) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (references.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Clear instructions keep answers grounded.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (14) Tj ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 31 0 R >>
+endobj
+33 0 obj
+<< /Length 961 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (15 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Grounded Answers) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A grounded answer is supported by retrieved source text. The) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (system should avoid presenting unsupported details as) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (established facts.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Evidence should support each claim.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (15) Tj ET
+endstream
+endobj
+34 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 33 0 R >>
+endobj
+35 0 obj
+<< /Length 943 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (16 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Citations) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Citations connect an answer to document names, pages, or) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (passages. Good citations help readers check the source and build) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (trust.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Make sources easy to inspect.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (16) Tj ET
+endstream
+endobj
+36 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 35 0 R >>
+endobj
+37 0 obj
+<< /Length 980 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (17 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Evaluation) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Test retrieval and answers with representative questions.) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (Measure whether the right passages appear and whether the final) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (response uses them correctly.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Evaluate search and generation separately.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (17) Tj ET
+endstream
+endobj
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 37 0 R >>
+endobj
+39 0 obj
+<< /Length 963 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (18 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Common Problems) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (Weak answers can come from missing documents, poor chunk) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (boundaries, irrelevant retrieval, unclear prompts, or incomplete) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (source text.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Trace the pipeline to find the cause.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (18) Tj ET
+endstream
+endobj
+40 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 39 0 R >>
+endobj
+41 0 obj
+<< /Length 985 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (19 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (Privacy and Access) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (A RAG application should retrieve only information the current) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (user is allowed to see. Apply access rules during retrieval and) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (protect stored data.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Permissions belong in the retrieval design.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (19) Tj ET
+endstream
+endobj
+42 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 41 0 R >>
+endobj
+43 0 obj
+<< /Length 960 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 612 792 re f
+Q
+0.12 0.28 0.48 rg
+52 700 508 42 re f
+BT /F2 12 Tf 1 1 1 rg 68 716 Td (RAG FIELD GUIDE) Tj ET
+BT /F1 10 Tf 0.32 0.38 0.46 rg 500 716 Td (20 / 20) Tj ET
+BT /F2 25 Tf 0.08 0.15 0.24 rg 58 642 Td (A Simple Example) Tj ET
+0.20 0.48 0.66 rg
+58 617 70 4 re f
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 570 Td (If a file says a meeting begins at 10 AM on Tuesday, RAG can) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 546 Td (retrieve that sentence and answer a question about the meeting) Tj ET
+BT /F1 14 Tf 0.15 0.19 0.24 rg 58 522 Td (time.) Tj ET
+0.88 0.92 0.96 rg
+58 255 496 92 re f
+0.12 0.28 0.48 rg
+74 315 100 16 re f
+BT /F2 10 Tf 1 1 1 rg 82 319 Td (KEY IDEA) Tj ET
+BT /F2 15 Tf 0.08 0.15 0.24 rg 76 281 Td (Answer from the document, and cite it.) Tj ET
+0.72 0.77 0.83 RG 58 60 m 554 60 l S
+BT /F1 9 Tf 0.40 0.45 0.52 rg 58 42 Td (Simple guide to Retrieval-Augmented Generation) Tj ET
+BT /F1 9 Tf 0.40 0.45 0.52 rg 530 42 Td (20) Tj ET
+endstream
+endobj
+44 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 43 0 R >>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000254 00000 n 
+0000000324 00000 n 
+0000000399 00000 n 
+0000001414 00000 n 
+0000001550 00000 n 
+0000002571 00000 n 
+0000002707 00000 n 
+0000003727 00000 n 
+0000003864 00000 n 
+0000004876 00000 n 
+0000005014 00000 n 
+0000006019 00000 n 
+0000006157 00000 n 
+0000007173 00000 n 
+0000007311 00000 n 
+0000008328 00000 n 
+0000008466 00000 n 
+0000009466 00000 n 
+0000009604 00000 n 
+0000010618 00000 n 
+0000010756 00000 n 
+0000011765 00000 n 
+0000011903 00000 n 
+0000012926 00000 n 
+0000013064 00000 n 
+0000014089 00000 n 
+0000014227 00000 n 
+0000015228 00000 n 
+0000015366 00000 n 
+0000016378 00000 n 
+0000016516 00000 n 
+0000017529 00000 n 
+0000017667 00000 n 
+0000018662 00000 n 
+0000018800 00000 n 
+0000019832 00000 n 
+0000019970 00000 n 
+0000020985 00000 n 
+0000021123 00000 n 
+0000022160 00000 n 
+0000022298 00000 n 
+0000023310 00000 n 
+trailer
+<< /Size 45 /Root 1 0 R >>
+startxref
+23448
+%%EOF
